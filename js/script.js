@@ -1,0 +1,1 @@
+// JavaScript extracted from HTML will be placed here. 
